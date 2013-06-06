@@ -2,7 +2,7 @@
     "name": "quickfire",
     "license": "MPL 2.0",
     "author": "Dietrich Ayala",
-    "version": "2.0",
+    "version": "2.1",
     "fullName": "Quickfire",
     "id": "quickfire@autonome.wordpress.com",
     "description": "Launch External Applications from the URL Bar."
